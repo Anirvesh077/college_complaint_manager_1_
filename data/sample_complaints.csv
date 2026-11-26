@@ -1,0 +1,44 @@
+student_name,roll_no,category,description,priority,date_filed,status,date_resolved,resolution_note
+Aarav Mehta,22CS1042,Hostel,Water heater in Block B room 214 has not worked for a week.,High,2026-08-12,Resolved,2026-08-15,Heater element replaced by maintenance.
+Priya Nair,22EC1015,Library,Reference books for Signals and Systems are missing from the shelf.,Low,2026-08-14,Resolved,2026-08-30,Two copies ordered and shelved.
+Rohan Verma,21ME1120,Canteen,"Food quality dropped sharply in the evening mess, found hair in the rice.",Medium,2026-08-18,Resolved,2026-08-24,Vendor warned in writing and kitchen inspected.
+Sneha Reddy,23CS1007,Academics,Internal marks for the Data Structures lab were never uploaded on the portal.,High,2026-09-02,In Progress,,
+Karthik Iyer,22IT1033,Transport,College bus route 7 arrives about 30 minutes late almost every day.,Medium,2026-09-03,Resolved,2026-09-12,Departure time shifted by 20 minutes.
+Ananya Das,21CE1050,Infrastructure,Ceiling fan in lecture hall C-12 is hanging loose and could fall.,Critical,2026-09-05,Resolved,2026-09-06,Fan removed and refixed by the electrician.
+Vikram Singh,22CS1088,Administration,Request to waive the late fee because the bank server was down.,Medium,2026-09-07,Rejected,2026-09-15,Bank confirmed there was no outage on the payment date.
+Meera Joshi,23EC1021,Hostel,Wifi in girls hostel block A drops every night after 10 pm.,High,2026-09-10,Open,,
+Arjun Patel,22ME1064,Library,"Library closes at 6 pm, we need extended hours before exams.",Low,2026-09-11,Resolved,2026-09-20,Hours extended to 9 pm during exam weeks.
+Divya Menon,21IT1012,Canteen,Please add more vegetarian options to the lunch menu.,Low,2026-09-14,Open,,
+Siddharth Rao,22CS1101,Infrastructure,Projector in room 304 flickers and goes blank during lectures.,High,2026-09-16,In Progress,,
+Isha Kapoor,23CE1018,Academics,Timetable clash between Fluid Mechanics and the elective on Thursdays.,Medium,2026-09-18,Resolved,2026-09-29,Elective slot moved to Friday.
+Nikhil Gupta,21CS1076,Hostel,"Exposed wiring near the switchboard in room 105, sparks were seen.",Critical,2026-09-20,Resolved,2026-09-21,"Wiring replaced, electrician report attached."
+Pooja Sharma,22EC1040,Transport,Bus pass card reader at the main gate is not scanning.,Low,2026-09-22,Open,,
+Rahul Nambiar,23ME1009,Administration,Scholarship certificate is still pending after three visits to the office.,High,2026-09-25,Resolved,2026-10-04,Certificate issued and handed over.
+Kavya Pillai,22IT1055,Infrastructure,Water cooler on the second floor of the main building is out of order.,Medium,2026-09-27,Resolved,2026-10-08,Cooler repaired and filter changed.
+Aditya Bhat,21CS1093,Library,Digital library login keeps rejecting valid student credentials.,Medium,2026-10-01,Open,,
+Shreya Banerjee,23CS1030,Hostel,"Mess timings clash with evening labs, requesting a later dinner slot.",Medium,2026-10-03,In Progress,,
+Manoj Kumar,22CE1002,Canteen,Several students fell sick after eating at the canteen on Monday.,High,2026-10-05,Resolved,2026-10-09,Food samples tested and supplier changed.
+Lakshmi Prasad,21EC1066,Academics,Syllabus copy for the Microwave Engineering elective is outdated.,Low,2026-10-07,Open,,
+Harsh Vardhan,23IT1044,Transport,No bus service is available for the late evening lab batch after 7 pm.,High,2026-10-09,Open,,
+Tanvi Choudhary,22ME1077,Infrastructure,Bicycle stand near the workshop has no roof and no lighting.,Low,2026-10-10,Resolved,2026-10-30,Shed approved and built.
+Yash Malhotra,21CS1015,Administration,"Hall ticket shows a wrong date of birth, needs correction before exams.",Medium,2026-10-12,In Progress,,
+Aishwarya Rao,22CS1120,Hostel,Laundry machines in block C have been broken for two weeks.,Low,2026-10-13,Resolved,2026-10-27,Two machines repaired.
+Devansh Jain,23EC1002,Library,Photocopier on the library ground floor keeps jamming.,Low,2026-10-14,Resolved,2026-10-19,Serviced by the vendor.
+Neha Agarwal,22IT1009,Academics,Re-evaluation result for Operating Systems is delayed beyond the notified date.,High,2026-10-16,Open,,
+Sanjay Krishnan,21ME1031,Infrastructure,Drain behind the workshop overflows and floods the walkway when it rains.,Critical,2026-10-18,In Progress,,
+Ritika Saxena,23CE1045,Canteen,Prices at the canteen were raised without any notice to students.,Medium,2026-10-20,Open,,
+Abhishek Thakur,22CS1056,Hostel,Room 308 has a leaking roof and my books and laptop bag got wet.,High,2026-10-22,Resolved,2026-10-26,Roof patched and room cleaned.
+Swathi Naidu,21IT1088,Transport,Request for a dedicated bus to the railway station every weekend.,Medium,2026-10-24,Rejected,2026-11-02,"Not feasible, the existing city bus covers the route."
+Gaurav Mishra,23ME1020,Administration,Bonafide certificate takes more than a week to be issued.,Low,2026-10-26,Resolved,2026-11-05,Turnaround reduced to two days.
+Ayesha Khan,22EC1090,Academics,Lab manual for VLSI is not available and the lab hours are too short.,Medium,2026-10-28,In Progress,,
+Varun Tripathi,21CS1047,Library,Printer in the computer lab library section is not connected to the network.,High,2026-10-30,Open,,
+Sonal Gupta,23IT1016,Hostel,"Mosquito problem near the hostel garden, fogging has not been done.",Medium,2026-11-02,Open,,
+Dhruv Anand,22CE1033,Infrastructure,Broken staircase railing near the east block exit.,High,2026-11-04,Open,,
+Pranav Kulkarni,21EC1005,Canteen,Tea is served cold during the morning break.,Low,2026-11-06,Resolved,2026-11-11,"Kitchen staff instructed, issue closed."
+Bhavna Yadav,22CS1111,Academics,Exam seating list is missing my name two days before the semester exam.,Critical,2026-11-08,Open,,
+Imran Sheikh,23CS1099,Administration,Fee receipt for the third semester is not reflected in the student account.,Medium,2026-11-10,Open,,
+Tara Fernandes,21ME1059,Other,Lost and found counter has no fixed timings.,Low,2026-11-12,Open,,
+Omkar Patil,22IT1070,Hostel,Study room lights are too dim and two tube lights are dead.,Medium,2026-11-18,Open,,
+Zoya Ali,22EC1999,Other,Fan noisy.,Low,2026-11-19,Open,,
+Aarav Mehta,22CS1042,Infrastructure,Charging sockets in classroom 2B are dead on the left side.,Medium,2026-11-15,Open,,
+Aarav Mehta,22CS1042,Library,Silent zone on the first floor is always noisy and unmonitored.,Low,2026-11-17,Open,,

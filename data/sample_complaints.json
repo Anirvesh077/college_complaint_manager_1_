@@ -1,0 +1,709 @@
+[
+  {
+    "id": "C0001",
+    "student_name": "Aarav Mehta",
+    "roll_no": "22CS1042",
+    "category": "Hostel",
+    "description": "Water heater in Block B room 214 has not worked for a week.",
+    "priority": "High",
+    "status": "Resolved",
+    "date_filed": "2026-08-12",
+    "due_date": "2026-08-17",
+    "date_resolved": "2026-08-15",
+    "resolution_note": "Heater element replaced by maintenance.",
+    "history": [
+      "2026-08-12  Filed as High priority in Hostel",
+      "2026-08-15  Marked Resolved: Heater element replaced by maintenance."
+    ]
+  },
+  {
+    "id": "C0002",
+    "student_name": "Priya Nair",
+    "roll_no": "22EC1015",
+    "category": "Library",
+    "description": "Reference books for Signals and Systems are missing from the shelf.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-08-14",
+    "due_date": "2026-09-03",
+    "date_resolved": "2026-08-30",
+    "resolution_note": "Two copies ordered and shelved.",
+    "history": [
+      "2026-08-14  Filed as Low priority in Library",
+      "2026-08-30  Marked Resolved: Two copies ordered and shelved."
+    ]
+  },
+  {
+    "id": "C0003",
+    "student_name": "Rohan Verma",
+    "roll_no": "21ME1120",
+    "category": "Canteen",
+    "description": "Food quality dropped sharply in the evening mess, found hair in the rice.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "date_filed": "2026-08-18",
+    "due_date": "2026-08-28",
+    "date_resolved": "2026-08-24",
+    "resolution_note": "Vendor warned in writing and kitchen inspected.",
+    "history": [
+      "2026-08-18  Filed as Medium priority in Canteen",
+      "2026-08-24  Marked Resolved: Vendor warned in writing and kitchen inspected."
+    ]
+  },
+  {
+    "id": "C0004",
+    "student_name": "Sneha Reddy",
+    "roll_no": "23CS1007",
+    "category": "Academics",
+    "description": "Internal marks for the Data Structures lab were never uploaded on the portal.",
+    "priority": "High",
+    "status": "In Progress",
+    "date_filed": "2026-09-02",
+    "due_date": "2026-09-07",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-09-02  Filed as High priority in Academics"
+    ]
+  },
+  {
+    "id": "C0005",
+    "student_name": "Karthik Iyer",
+    "roll_no": "22IT1033",
+    "category": "Transport",
+    "description": "College bus route 7 arrives about 30 minutes late almost every day.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "date_filed": "2026-09-03",
+    "due_date": "2026-09-13",
+    "date_resolved": "2026-09-12",
+    "resolution_note": "Departure time shifted by 20 minutes.",
+    "history": [
+      "2026-09-03  Filed as Medium priority in Transport",
+      "2026-09-12  Marked Resolved: Departure time shifted by 20 minutes."
+    ]
+  },
+  {
+    "id": "C0006",
+    "student_name": "Ananya Das",
+    "roll_no": "21CE1050",
+    "category": "Infrastructure",
+    "description": "Ceiling fan in lecture hall C-12 is hanging loose and could fall.",
+    "priority": "Critical",
+    "status": "Resolved",
+    "date_filed": "2026-09-05",
+    "due_date": "2026-09-07",
+    "date_resolved": "2026-09-06",
+    "resolution_note": "Fan removed and refixed by the electrician.",
+    "history": [
+      "2026-09-05  Filed as Critical priority in Infrastructure",
+      "2026-09-06  Marked Resolved: Fan removed and refixed by the electrician."
+    ]
+  },
+  {
+    "id": "C0007",
+    "student_name": "Vikram Singh",
+    "roll_no": "22CS1088",
+    "category": "Administration",
+    "description": "Request to waive the late fee because the bank server was down.",
+    "priority": "Medium",
+    "status": "Rejected",
+    "date_filed": "2026-09-07",
+    "due_date": "2026-09-17",
+    "date_resolved": "2026-09-15",
+    "resolution_note": "Bank confirmed there was no outage on the payment date.",
+    "history": [
+      "2026-09-07  Filed as Medium priority in Administration",
+      "2026-09-15  Marked Rejected: Bank confirmed there was no outage on the payment date."
+    ]
+  },
+  {
+    "id": "C0008",
+    "student_name": "Meera Joshi",
+    "roll_no": "23EC1021",
+    "category": "Hostel",
+    "description": "Wifi in girls hostel block A drops every night after 10 pm.",
+    "priority": "High",
+    "status": "Open",
+    "date_filed": "2026-09-10",
+    "due_date": "2026-09-15",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-09-10  Filed as High priority in Hostel"
+    ]
+  },
+  {
+    "id": "C0009",
+    "student_name": "Arjun Patel",
+    "roll_no": "22ME1064",
+    "category": "Library",
+    "description": "Library closes at 6 pm, we need extended hours before exams.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-09-11",
+    "due_date": "2026-10-01",
+    "date_resolved": "2026-09-20",
+    "resolution_note": "Hours extended to 9 pm during exam weeks.",
+    "history": [
+      "2026-09-11  Filed as Low priority in Library",
+      "2026-09-20  Marked Resolved: Hours extended to 9 pm during exam weeks."
+    ]
+  },
+  {
+    "id": "C0010",
+    "student_name": "Divya Menon",
+    "roll_no": "21IT1012",
+    "category": "Canteen",
+    "description": "Please add more vegetarian options to the lunch menu.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-09-14",
+    "due_date": "2026-10-04",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-09-14  Filed as Low priority in Canteen"
+    ]
+  },
+  {
+    "id": "C0011",
+    "student_name": "Siddharth Rao",
+    "roll_no": "22CS1101",
+    "category": "Infrastructure",
+    "description": "Projector in room 304 flickers and goes blank during lectures.",
+    "priority": "High",
+    "status": "In Progress",
+    "date_filed": "2026-09-16",
+    "due_date": "2026-09-21",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-09-16  Filed as High priority in Infrastructure"
+    ]
+  },
+  {
+    "id": "C0012",
+    "student_name": "Isha Kapoor",
+    "roll_no": "23CE1018",
+    "category": "Academics",
+    "description": "Timetable clash between Fluid Mechanics and the elective on Thursdays.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "date_filed": "2026-09-18",
+    "due_date": "2026-09-28",
+    "date_resolved": "2026-09-29",
+    "resolution_note": "Elective slot moved to Friday.",
+    "history": [
+      "2026-09-18  Filed as Medium priority in Academics",
+      "2026-09-29  Marked Resolved: Elective slot moved to Friday."
+    ]
+  },
+  {
+    "id": "C0013",
+    "student_name": "Nikhil Gupta",
+    "roll_no": "21CS1076",
+    "category": "Hostel",
+    "description": "Exposed wiring near the switchboard in room 105, sparks were seen.",
+    "priority": "Critical",
+    "status": "Resolved",
+    "date_filed": "2026-09-20",
+    "due_date": "2026-09-22",
+    "date_resolved": "2026-09-21",
+    "resolution_note": "Wiring replaced, electrician report attached.",
+    "history": [
+      "2026-09-20  Filed as Critical priority in Hostel",
+      "2026-09-21  Marked Resolved: Wiring replaced, electrician report attached."
+    ]
+  },
+  {
+    "id": "C0014",
+    "student_name": "Pooja Sharma",
+    "roll_no": "22EC1040",
+    "category": "Transport",
+    "description": "Bus pass card reader at the main gate is not scanning.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-09-22",
+    "due_date": "2026-10-12",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-09-22  Filed as Low priority in Transport"
+    ]
+  },
+  {
+    "id": "C0015",
+    "student_name": "Rahul Nambiar",
+    "roll_no": "23ME1009",
+    "category": "Administration",
+    "description": "Scholarship certificate is still pending after three visits to the office.",
+    "priority": "High",
+    "status": "Resolved",
+    "date_filed": "2026-09-25",
+    "due_date": "2026-09-30",
+    "date_resolved": "2026-10-04",
+    "resolution_note": "Certificate issued and handed over.",
+    "history": [
+      "2026-09-25  Filed as High priority in Administration",
+      "2026-10-04  Marked Resolved: Certificate issued and handed over."
+    ]
+  },
+  {
+    "id": "C0016",
+    "student_name": "Kavya Pillai",
+    "roll_no": "22IT1055",
+    "category": "Infrastructure",
+    "description": "Water cooler on the second floor of the main building is out of order.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "date_filed": "2026-09-27",
+    "due_date": "2026-10-07",
+    "date_resolved": "2026-10-08",
+    "resolution_note": "Cooler repaired and filter changed.",
+    "history": [
+      "2026-09-27  Filed as Medium priority in Infrastructure",
+      "2026-10-08  Marked Resolved: Cooler repaired and filter changed."
+    ]
+  },
+  {
+    "id": "C0017",
+    "student_name": "Aditya Bhat",
+    "roll_no": "21CS1093",
+    "category": "Library",
+    "description": "Digital library login keeps rejecting valid student credentials.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-10-01",
+    "due_date": "2026-10-11",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-01  Filed as Medium priority in Library"
+    ]
+  },
+  {
+    "id": "C0018",
+    "student_name": "Shreya Banerjee",
+    "roll_no": "23CS1030",
+    "category": "Hostel",
+    "description": "Mess timings clash with evening labs, requesting a later dinner slot.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "date_filed": "2026-10-03",
+    "due_date": "2026-10-13",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-03  Filed as Medium priority in Hostel"
+    ]
+  },
+  {
+    "id": "C0019",
+    "student_name": "Manoj Kumar",
+    "roll_no": "22CE1002",
+    "category": "Canteen",
+    "description": "Several students fell sick after eating at the canteen on Monday.",
+    "priority": "High",
+    "status": "Resolved",
+    "date_filed": "2026-10-05",
+    "due_date": "2026-10-10",
+    "date_resolved": "2026-10-09",
+    "resolution_note": "Food samples tested and supplier changed.",
+    "history": [
+      "2026-10-05  Filed as High priority in Canteen",
+      "2026-10-09  Marked Resolved: Food samples tested and supplier changed."
+    ]
+  },
+  {
+    "id": "C0020",
+    "student_name": "Lakshmi Prasad",
+    "roll_no": "21EC1066",
+    "category": "Academics",
+    "description": "Syllabus copy for the Microwave Engineering elective is outdated.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-10-07",
+    "due_date": "2026-10-27",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-07  Filed as Low priority in Academics"
+    ]
+  },
+  {
+    "id": "C0021",
+    "student_name": "Harsh Vardhan",
+    "roll_no": "23IT1044",
+    "category": "Transport",
+    "description": "No bus service is available for the late evening lab batch after 7 pm.",
+    "priority": "High",
+    "status": "Open",
+    "date_filed": "2026-10-09",
+    "due_date": "2026-10-14",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-09  Filed as High priority in Transport"
+    ]
+  },
+  {
+    "id": "C0022",
+    "student_name": "Tanvi Choudhary",
+    "roll_no": "22ME1077",
+    "category": "Infrastructure",
+    "description": "Bicycle stand near the workshop has no roof and no lighting.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-10-10",
+    "due_date": "2026-10-30",
+    "date_resolved": "2026-10-30",
+    "resolution_note": "Shed approved and built.",
+    "history": [
+      "2026-10-10  Filed as Low priority in Infrastructure",
+      "2026-10-30  Marked Resolved: Shed approved and built."
+    ]
+  },
+  {
+    "id": "C0023",
+    "student_name": "Yash Malhotra",
+    "roll_no": "21CS1015",
+    "category": "Administration",
+    "description": "Hall ticket shows a wrong date of birth, needs correction before exams.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "date_filed": "2026-10-12",
+    "due_date": "2026-10-22",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-12  Filed as Medium priority in Administration"
+    ]
+  },
+  {
+    "id": "C0024",
+    "student_name": "Aishwarya Rao",
+    "roll_no": "22CS1120",
+    "category": "Hostel",
+    "description": "Laundry machines in block C have been broken for two weeks.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-10-13",
+    "due_date": "2026-11-02",
+    "date_resolved": "2026-10-27",
+    "resolution_note": "Two machines repaired.",
+    "history": [
+      "2026-10-13  Filed as Low priority in Hostel",
+      "2026-10-27  Marked Resolved: Two machines repaired."
+    ]
+  },
+  {
+    "id": "C0025",
+    "student_name": "Devansh Jain",
+    "roll_no": "23EC1002",
+    "category": "Library",
+    "description": "Photocopier on the library ground floor keeps jamming.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-10-14",
+    "due_date": "2026-11-03",
+    "date_resolved": "2026-10-19",
+    "resolution_note": "Serviced by the vendor.",
+    "history": [
+      "2026-10-14  Filed as Low priority in Library",
+      "2026-10-19  Marked Resolved: Serviced by the vendor."
+    ]
+  },
+  {
+    "id": "C0026",
+    "student_name": "Neha Agarwal",
+    "roll_no": "22IT1009",
+    "category": "Academics",
+    "description": "Re-evaluation result for Operating Systems is delayed beyond the notified date.",
+    "priority": "High",
+    "status": "Open",
+    "date_filed": "2026-10-16",
+    "due_date": "2026-10-21",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-16  Filed as High priority in Academics"
+    ]
+  },
+  {
+    "id": "C0027",
+    "student_name": "Sanjay Krishnan",
+    "roll_no": "21ME1031",
+    "category": "Infrastructure",
+    "description": "Drain behind the workshop overflows and floods the walkway when it rains.",
+    "priority": "Critical",
+    "status": "In Progress",
+    "date_filed": "2026-10-18",
+    "due_date": "2026-10-20",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-18  Filed as Critical priority in Infrastructure"
+    ]
+  },
+  {
+    "id": "C0028",
+    "student_name": "Ritika Saxena",
+    "roll_no": "23CE1045",
+    "category": "Canteen",
+    "description": "Prices at the canteen were raised without any notice to students.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-10-20",
+    "due_date": "2026-10-30",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-20  Filed as Medium priority in Canteen"
+    ]
+  },
+  {
+    "id": "C0029",
+    "student_name": "Abhishek Thakur",
+    "roll_no": "22CS1056",
+    "category": "Hostel",
+    "description": "Room 308 has a leaking roof and my books and laptop bag got wet.",
+    "priority": "High",
+    "status": "Resolved",
+    "date_filed": "2026-10-22",
+    "due_date": "2026-10-27",
+    "date_resolved": "2026-10-26",
+    "resolution_note": "Roof patched and room cleaned.",
+    "history": [
+      "2026-10-22  Filed as High priority in Hostel",
+      "2026-10-26  Marked Resolved: Roof patched and room cleaned."
+    ]
+  },
+  {
+    "id": "C0030",
+    "student_name": "Swathi Naidu",
+    "roll_no": "21IT1088",
+    "category": "Transport",
+    "description": "Request for a dedicated bus to the railway station every weekend.",
+    "priority": "Medium",
+    "status": "Rejected",
+    "date_filed": "2026-10-24",
+    "due_date": "2026-11-03",
+    "date_resolved": "2026-11-02",
+    "resolution_note": "Not feasible, the existing city bus covers the route.",
+    "history": [
+      "2026-10-24  Filed as Medium priority in Transport",
+      "2026-11-02  Marked Rejected: Not feasible, the existing city bus covers the route."
+    ]
+  },
+  {
+    "id": "C0031",
+    "student_name": "Gaurav Mishra",
+    "roll_no": "23ME1020",
+    "category": "Administration",
+    "description": "Bonafide certificate takes more than a week to be issued.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-10-26",
+    "due_date": "2026-11-15",
+    "date_resolved": "2026-11-05",
+    "resolution_note": "Turnaround reduced to two days.",
+    "history": [
+      "2026-10-26  Filed as Low priority in Administration",
+      "2026-11-05  Marked Resolved: Turnaround reduced to two days."
+    ]
+  },
+  {
+    "id": "C0032",
+    "student_name": "Ayesha Khan",
+    "roll_no": "22EC1090",
+    "category": "Academics",
+    "description": "Lab manual for VLSI is not available and the lab hours are too short.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "date_filed": "2026-10-28",
+    "due_date": "2026-11-07",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-28  Filed as Medium priority in Academics"
+    ]
+  },
+  {
+    "id": "C0033",
+    "student_name": "Varun Tripathi",
+    "roll_no": "21CS1047",
+    "category": "Library",
+    "description": "Printer in the computer lab library section is not connected to the network.",
+    "priority": "High",
+    "status": "Open",
+    "date_filed": "2026-10-30",
+    "due_date": "2026-11-04",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-10-30  Filed as High priority in Library"
+    ]
+  },
+  {
+    "id": "C0034",
+    "student_name": "Sonal Gupta",
+    "roll_no": "23IT1016",
+    "category": "Hostel",
+    "description": "Mosquito problem near the hostel garden, fogging has not been done.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-11-02",
+    "due_date": "2026-11-12",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-02  Filed as Medium priority in Hostel"
+    ]
+  },
+  {
+    "id": "C0035",
+    "student_name": "Dhruv Anand",
+    "roll_no": "22CE1033",
+    "category": "Infrastructure",
+    "description": "Broken staircase railing near the east block exit.",
+    "priority": "High",
+    "status": "Open",
+    "date_filed": "2026-11-04",
+    "due_date": "2026-11-09",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-04  Filed as High priority in Infrastructure"
+    ]
+  },
+  {
+    "id": "C0036",
+    "student_name": "Pranav Kulkarni",
+    "roll_no": "21EC1005",
+    "category": "Canteen",
+    "description": "Tea is served cold during the morning break.",
+    "priority": "Low",
+    "status": "Resolved",
+    "date_filed": "2026-11-06",
+    "due_date": "2026-11-26",
+    "date_resolved": "2026-11-11",
+    "resolution_note": "Kitchen staff instructed, issue closed.",
+    "history": [
+      "2026-11-06  Filed as Low priority in Canteen",
+      "2026-11-11  Marked Resolved: Kitchen staff instructed, issue closed."
+    ]
+  },
+  {
+    "id": "C0037",
+    "student_name": "Bhavna Yadav",
+    "roll_no": "22CS1111",
+    "category": "Academics",
+    "description": "Exam seating list is missing my name two days before the semester exam.",
+    "priority": "Critical",
+    "status": "Open",
+    "date_filed": "2026-11-08",
+    "due_date": "2026-11-10",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-08  Filed as Critical priority in Academics"
+    ]
+  },
+  {
+    "id": "C0038",
+    "student_name": "Imran Sheikh",
+    "roll_no": "23CS1099",
+    "category": "Administration",
+    "description": "Fee receipt for the third semester is not reflected in the student account.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-11-10",
+    "due_date": "2026-11-20",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-10  Filed as Medium priority in Administration"
+    ]
+  },
+  {
+    "id": "C0039",
+    "student_name": "Tara Fernandes",
+    "roll_no": "21ME1059",
+    "category": "Other",
+    "description": "Lost and found counter has no fixed timings.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-11-12",
+    "due_date": "2026-12-02",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-12  Filed as Low priority in Other"
+    ]
+  },
+  {
+    "id": "C0040",
+    "student_name": "Omkar Patil",
+    "roll_no": "22IT1070",
+    "category": "Hostel",
+    "description": "Study room lights are too dim and two tube lights are dead.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-11-18",
+    "due_date": "2026-11-28",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-18  Filed as Medium priority in Hostel"
+    ]
+  },
+  {
+    "id": "C0041",
+    "student_name": "Zoya Ali",
+    "roll_no": "22EC1999",
+    "category": "Other",
+    "description": "Fan noisy.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-11-19",
+    "due_date": "2026-12-09",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-19  Filed as Low priority in Other"
+    ]
+  },
+  {
+    "id": "C0042",
+    "student_name": "Aarav Mehta",
+    "roll_no": "22CS1042",
+    "category": "Infrastructure",
+    "description": "Charging sockets in classroom 2B are dead on the left side.",
+    "priority": "Medium",
+    "status": "Open",
+    "date_filed": "2026-11-15",
+    "due_date": "2026-11-25",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-15  Filed as Medium priority in Infrastructure"
+    ]
+  },
+  {
+    "id": "C0043",
+    "student_name": "Aarav Mehta",
+    "roll_no": "22CS1042",
+    "category": "Library",
+    "description": "Silent zone on the first floor is always noisy and unmonitored.",
+    "priority": "Low",
+    "status": "Open",
+    "date_filed": "2026-11-17",
+    "due_date": "2026-12-07",
+    "date_resolved": "",
+    "resolution_note": "",
+    "history": [
+      "2026-11-17  Filed as Low priority in Library"
+    ]
+  }
+]

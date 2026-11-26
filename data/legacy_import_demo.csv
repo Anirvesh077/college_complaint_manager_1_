@@ -1,0 +1,13 @@
+student_name,roll_no,category,description,priority,date_filed,status,date_resolved,resolution_note
+Mohit Arora,22CS1201,Library,Seat reservation system for the reading hall is not working.,Medium,2026-11-01,Open,,
+Julie D,CS-77,Hostel,Hot water supply stops at 7 am daily in block D.,High,2026-11-02,Open,,
+Raj Pandey,22ME1301,Gym,Gym equipment is rusted and unsafe to use.,Medium,2026-11-03,Open,,
+Neel Shah,23CE1105,Canteen,Hot,Low,2026-11-04,Open,,
+Fatima Zaid,21IT1200,Transport,Bus stop shelter near gate 2 has collapsed.,High,2026-13-05,Open,,
+Kunal Sethi,22EC1303,Academics,Request extra classes for Digital Signal Processing.,Low,2027-01-10,Open,,
+Leela Menon,23CS1210,Infrastructure,Lift in the admin block stops between floors.,Critical,2026-11-05,Resolved,2026-11-07,Lift serviced and certified.
+Omar Faruk,21CE1220,Hostel,Rooms are not cleaned on weekends.,Urgent,2026-11-06,Open,,
+Pia Roy,22IT1230,Library,Old magazines should be removed from the reading hall.,Low,2026-11-07,Resolved,,
+Aarav Mehta,22CS1042,Hostel,Water heater in Block B room 214 has not worked for a week.,High,2026-11-08,Open,,
+Tina Thomas,23ME1240,Transport,Bus route 3 skips the stop near the market.,Medium,2026-11-09,Open,,
+R2D2!!,22CS1250,Other,Droids are not allowed in the lab and this is unfair.,Low,2026-11-10,Open,,
